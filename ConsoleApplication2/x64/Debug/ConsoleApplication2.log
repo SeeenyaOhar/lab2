@@ -1,0 +1,3 @@
+﻿  ConsoleApplication2.cpp
+C:\Users\senya\source\repos\ConsoleApplication2\ConsoleApplication2\ConsoleApplication2.cpp(184,45): warning C4101: 'e': unreferenced local variable
+  ConsoleApplication2.vcxproj -> C:\Users\senya\source\repos\ConsoleApplication2\x64\Debug\ConsoleApplication2.exe
